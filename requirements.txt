@@ -1,0 +1,5 @@
+fastapi
+loguru
+uvicorn
+psycopg2
+email-validator
